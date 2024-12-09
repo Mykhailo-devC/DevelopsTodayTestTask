@@ -1,0 +1,3 @@
+{
+  "ConnectionString": "Data Source = .\\SQLEXPRESS; Initial Catalog = devTodayDb; Integrated Security = True; TrustServerCertificate=True;"
+}

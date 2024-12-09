@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DevelopsTodayTestTask": {
+      "commandName": "Project",
+      "commandLineArgs": "sample-cab-data.csv"
+    }
+  }
+}
